@@ -1,0 +1,22 @@
+2024-Jul-18-16:45:56 : Extaction has started
+2024-Jul-18-16:46:02 : Extaction has Ended
+2024-Jul-18-16:46:02 : Tranformation has started
+2024-Jul-18-16:46:02 : Tranformation has Ended
+2024-Jul-18-16:46:02 : Loading to csv has started
+2024-Jul-18-16:46:02 : Loading to csv has ended
+2024-Jul-18-16:46:02 : Loading to db has started
+2024-Jul-18-16:46:02 : Loading to db has ended
+2024-Jul-18-16:46:02 : running query: SELECT * FROM Largest_banks
+2024-Jul-18-16:46:02 : running query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2024-Jul-18-16:46:02 : running query: SELECT Name from Largest_banks LIMIT 5
+2024-Jul-18-18:02:08 : Extaction has started
+2024-Jul-18-18:02:13 : Extaction has Ended
+2024-Jul-18-18:02:13 : Tranformation has started
+2024-Jul-18-18:02:13 : Tranformation has Ended
+2024-Jul-18-18:02:13 : Loading to csv has started
+2024-Jul-18-18:02:13 : Loading to csv has ended
+2024-Jul-18-18:02:13 : Loading to db has started
+2024-Jul-18-18:02:13 : Loading to db has ended
+2024-Jul-18-18:02:13 : running query: SELECT * FROM Largest_banks
+2024-Jul-18-18:02:13 : running query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2024-Jul-18-18:02:13 : running query: SELECT Name from Largest_banks LIMIT 5
